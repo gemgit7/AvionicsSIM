@@ -8,7 +8,7 @@ namespace avSim
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Codfdd fd
+            // Corrected comment
    		    sender = e;
         }
     }
